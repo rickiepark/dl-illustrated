@@ -14,19 +14,19 @@ Below is the book's table of contents with links to all of the individual notebo
 
 *Note that while TensorFlow 2.0 was released after the book had gone to press, as detailed in Chapter 14 (specifically, Example 14.1), all of our notebooks can be trivially converted into TensorFlow 2.x code if desired.*
 
-### Part 1: Introducing Deep Learning
+### 1부: 딥러닝 소개
 
-#### Chapter 1: Biological and Machine Vision
+#### 1장: 생물의 눈과 기계의 눈
 
-* Biological Vision
-* Machine Vision
-	* The Neocognitron
+* 생물의 눈
+* 기계의 눈
+	* 신인식기
 	* LeNet-5
-	* The Traditional Machine Learning Approach
-	* ImageNet and the ILSVRC
+	* 전통적인 머신러닝 방법
+	* 이미지넷과 ILSVRC
 	* AlexNet
-* TensorFlow PlayGround
-* The _Quick, Draw!_ Game
+* 텐서플로 플레이그라운드
+* Quick, Draw!
 
 #### Chapter 2: Human and Machine Language
 
