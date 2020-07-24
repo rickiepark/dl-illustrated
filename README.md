@@ -28,19 +28,20 @@ Below is the book's table of contents with links to all of the individual notebo
 * 텐서플로 플레이그라운드
 * Quick, Draw!
 
-#### Chapter 2: Human and Machine Language
+#### 2장: 사람의 언어와 기계의 언어
 
-* Deep Learning for Natural Language Processing
-	* Deep Learning Networks Learn Representations Automatically
-	* A Brief History of Deep Learning for NLP
-* Computational Representations of Language
-	* One-Hot Representations of Words
-	* Word Vectors
-	* Word Vector Arithmetic
+* 자연어 처리를 위한 딥러닝
+	* 딥러닝은 자동으로 표현을 학습합니다
+    * 자연어 처리
+	* 자연어 처리를 위한 딥러닝의 짧은 역사
+* 언어의 컴퓨터 표현
+	* 단어의 원-핫 표현
+	* 단어 벡터
+	* 단어 벡터 산술 연산
 	* word2viz
-	* Localist Versus Distributed Representations
-* Elements of Natural Human Language
-* Google Duplex
+	* 지역 표현 vs 분산 표현
+* 자연어의 구성 요소
+* 구글 듀플렉스
 
 #### Chapter 3: Machine Art
 
