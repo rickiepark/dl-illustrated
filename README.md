@@ -43,48 +43,51 @@ Below is the book's table of contents with links to all of the individual notebo
 * 자연어의 구성 요소
 * 구글 듀플렉스
 
-#### Chapter 3: Machine Art
+#### 3장: 기계의 예술
 
-* A Boozy All-Nighter
-* Arithmetic on Fake Human Faces
-* Style Transfer: Converting Photos into Monet (and Vice Versa)
-* Make Your Own Sketches Photorealistic
-* Creating Photorealistic Images from Text
-* Image Processing Using Deep Learning
+* 밤새도록 마시는 술꾼
+* 가짜 얼굴 생성
+* 스타일 트랜스퍼: 사진을 모네 그림으로 변환하기 (또는 그 반대)
+* 스케치를 사진으로 바꾸기
+* 텍스트를 사진으로 바꾸기
+* 딥러닝을 사용한 이미지 처리
 
-#### Chapter 4: Game-Playing Machines
+#### 4장: 게임하는 기계
 
-* Deep Learning, AI, and Other Beasts
-	* Artificial Intelligence
-	* Machine Learning
-	* Representation Learning
-	* Artificial Neural Networks
-* Three Categories of Machine Learning Problems
-	* Supervised Learning
-	* Unsupervised Learning
-	* Reinforcement Learning
-* Deep Reinforcement Learning
-* Video Games
-* Board Games
-	* AlphaGo
-	* AlphaGo Zero
-	* AlphaZero
-* Manipulation of Objects
-* Popular Reinforcement Learning Environments
-	* OpenAI Gym
-	* DeepMind Lab
-	* Unity ML-Agents
-* Three Categories of AI
-	* Artificial Narrow Intelligence
-	* Artificial General Intelligence
-	* Artificial Super Intelligence
+* 딥러닝, 인공 지능 그리고 다른 기술들
+	* 인공 지능
+	* 머신러닝
+	* 표현 학습
+	* 인공 신경망
+    * 딥러닝
+    * 머신 비전
+    * 자연어 처리
+* 3가지 종류의 머신러닝 문제
+	* 지도 학습
+	* 비지도 학습
+	* 강화 학습
+* 심층 강화 학습
+* 비디오 게임
+* 보드 게임
+	* 알파고
+	* 알파고 제로
+	* 알파제로
+* 물체 조작
+* 유명한 심층 강화 학습 환경
+	* OpenAI 짐
+	* 딥마인드 랩
+	* 유니티 ML-Agents
+* 세 부류의 인공 지능
+	* 약 인공 지능
+	* 인공 일반 지능
+	* 초 인공 지능
 
-### Part II: Essential Theory Illustrated
+### 2부: 핵심 이론
 
-#### Chapter 5: The (Code) Cart Ahead of the (Theory) Horse
+#### 5장: 말(이론)보다 마차(코드)
 
-* Prerequisites
-* Installation
+* 필요한 지식
+* 설치
 * A Shallow Neural Network in Keras ([shallow_net_in_keras.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/shallow_net_in_keras.ipynb))
 	* The MNIST Handwritten Digits ([mnist_digit_pixel_by_pixel.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/mnist_digit_pixel_by_pixel.ipynb))
 	* A Schematic Diagram of the Network
