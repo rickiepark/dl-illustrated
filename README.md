@@ -88,8 +88,8 @@ Below is the book's table of contents with links to all of the individual notebo
 
 * 필요한 지식
 * 설치
-* A Shallow Neural Network in Keras ([5-1.shallow_net_in_keras.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/shallow_net_in_keras.ipynb))
-	* The MNIST Handwritten Digits ([5-2.mnist_digit_pixel_by_pixel.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/mnist_digit_pixel_by_pixel.ipynb))
+* A Shallow Neural Network in Keras ([5-1.shallow_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/5-1.shallow_net_in_keras.ipynb))
+	* The MNIST Handwritten Digits ([5-2.mnist_digit_pixel_by_pixel.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/5-2.mnist_digit_pixel_by_pixel.ipynb))
 	* A Schematic Diagram of the Network
 	* Loading the Data
 	* Reformatting the Data
@@ -103,7 +103,7 @@ Below is the book's table of contents with links to all of the individual notebo
 	* The Hot Dog / Not Hot Dog Detector
 	* The Most Important Equation in the Book
 * Modern Neurons and Activation Functions 
-	* Sigmoid Neurons ([sigmoid_function.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/sigmoid_function.ipynb))
+	* Sigmoid Neurons ([sigmoid_function.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/sigmoid_function.ipynb))
 	* Tanh Neurons 
 	* ReLU: Rectified Linear Units
 * Choosing a Neuron
@@ -115,27 +115,27 @@ Below is the book's table of contents with links to all of the individual notebo
 * A Hot Dog-Detecting Dense Network 
 	* Forward Propagation through the First Hidden Layer
 	* Forward Propagation through Subsequent Layers
-* The Softmax Layer of a Fast Food-Classifying Network ([softmax_demo.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/softmax_demo.ipynb))
+* The Softmax Layer of a Fast Food-Classifying Network ([softmax_demo.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/softmax_demo.ipynb))
 * Revisiting our Shallow Neural Network
 
 #### Chapter 8: Training Deep Networks
 
 * Cost Functions 
-	* Quadratic Cost ([quadratic_cost.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/quadratic_cost.ipynb))
+	* Quadratic Cost ([quadratic_cost.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/quadratic_cost.ipynb))
 	* Saturated Neurons
-	* Cross-Entropy Cost ([cross_entropy_cost.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/cross_entropy_cost.ipynb))
+	* Cross-Entropy Cost ([cross_entropy_cost.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/cross_entropy_cost.ipynb))
 * Optimization: Learning to Minimize Cost 
 	* Gradient Descent
-	* Learning Rate ([measuring_speed_of_learning.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/measuring_speed_of_learning.ipynb))
+	* Learning Rate ([measuring_speed_of_learning.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/measuring_speed_of_learning.ipynb))
 	* Batch Size and Stochastic Gradient Descent
 	* Escaping the Local Minimum
 * Backpropagation
 * Tuning Hidden-Layer Count and Neuron Count
-* An Intermediate Net in Keras ([intermediate_net_in_keras.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/intermediate_net_in_keras.ipynb))
+* An Intermediate Net in Keras ([intermediate_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/intermediate_net_in_keras.ipynb))
 
 #### Chapter 9: Improving Deep Networks
 
-* Weight Initialization ([weight_initialization.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/weight_initialization.ipynb))
+* Weight Initialization ([weight_initialization.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/weight_initialization.ipynb))
 	* Xavier Glorot Distributions
 * Unstable Gradients 
 	* Vanishing Gradients
@@ -151,9 +151,9 @@ Below is the book's table of contents with links to all of the individual notebo
 	* AdaGrad
 	* AdaDelta and RMSProp
 	* Adam
-* A Deep Neural Network in Keras ([deep_net_in_keras.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/deep_net_in_keras.ipynb))
-* Regression ([regression_in_keras.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/regression_in_keras.ipynb))
-* TensorBoard ([deep_net_in_keras_with_tensorboard.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/deep_net_in_keras_with_tensorboard.ipynb))
+* A Deep Neural Network in Keras ([deep_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/deep_net_in_keras.ipynb))
+* Regression ([regression_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/regression_in_keras.ipynb))
+* TensorBoard ([deep_net_in_keras_with_tensorboard.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/deep_net_in_keras_with_tensorboard.ipynb))
 
 ### Part III: Interactive Applications of Deep Learning
 
@@ -169,20 +169,20 @@ Below is the book's table of contents with links to all of the individual notebo
 	* Stride Length
 	* Padding
 * Pooling Layers
-* LeNet-5 in Keras ([lenet_in_keras.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/lenet_in_keras.ipynb))
-* AlexNet ([alexnet_in_keras.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/alexnet_in_keras.ipynb)) and VGGNet ([vggnet_in_keras.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/vggnet_in_keras.ipynb))
+* LeNet-5 in Keras ([lenet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/lenet_in_keras.ipynb))
+* AlexNet ([alexnet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/alexnet_in_keras.ipynb)) and VGGNet ([vggnet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/vggnet_in_keras.ipynb))
 * Residual Networks 
 	* Vanishing Gradients: The Bête Noire of Deep CNNs
 	* Residual Connection
 * Applications of Machine Vision
 	* Object Detection
 	* Image Segmentation
-	* Transfer Learning ([transfer_learning_in_keras.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/transfer_learning_in_keras.ipynb))
+	* Transfer Learning ([transfer_learning_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/transfer_learning_in_keras.ipynb))
 	* Capsule Networks
 
 #### Chapter 11: Natural Language Processing
 
-* Preprocessing Natural Language Data ([natural_language_preprocessing.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/natural_language_preprocessing.ipynb))
+* Preprocessing Natural Language Data ([natural_language_preprocessing.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/natural_language_preprocessing.ipynb))
 	* Tokenization
 	* Converting all Characters to Lower Case
 	* Removing Stop Words and Punctuation
@@ -200,16 +200,16 @@ Below is the book's table of contents with links to all of the individual notebo
 	* Loading the IMDB Film Reviews
 	* Examining the IMDB Data
 	* Standardizing the Length of the Reviews
-	* Dense Network ([dense_sentiment_classifier.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/dense_sentiment_classifier.ipynb))
-	* Convolutional Networks ([convolutional_sentiment_classifier.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/convolutional_sentiment_classifier.ipynb))
+	* Dense Network ([dense_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/dense_sentiment_classifier.ipynb))
+	* Convolutional Networks ([convolutional_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/convolutional_sentiment_classifier.ipynb))
 * Networks Designed for Sequential Data 
-	* Recurrent Neural Networks ([rnn_sentiment_classifier.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/rnn_sentiment_classifier.ipynb))
-	* Long Short-Term Memory Units ([lstm_sentiment_classifier.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/lstm_sentiment_classifier.ipynb))
-	* Bidirectional LSTMs ([bi_lstm_sentiment_classifier.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/bi_lstm_sentiment_classifier.ipynb))
-	* Stacked Recurrent Models ([stacked_bi_lstm_sentiment_classifier.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/stacked_bi_lstm_sentiment_classifier.ipynb))
+	* Recurrent Neural Networks ([rnn_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/rnn_sentiment_classifier.ipynb))
+	* Long Short-Term Memory Units ([lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/lstm_sentiment_classifier.ipynb))
+	* Bidirectional LSTMs ([bi_lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/bi_lstm_sentiment_classifier.ipynb))
+	* Stacked Recurrent Models ([stacked_bi_lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/stacked_bi_lstm_sentiment_classifier.ipynb))
 	* Seq2seq and Attention
 	* Transfer Learning in NLP
-* Non-Sequential Architectures: The Keras Functional API ([multi_convnet_sentiment_classifier.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/multi_convnet_sentiment_classifier.ipynb))
+* Non-Sequential Architectures: The Keras Functional API ([multi_convnet_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/multi_convnet_sentiment_classifier.ipynb))
 
 #### Chapter 12: Generative Adversarial Networks
 
@@ -218,7 +218,7 @@ Below is the book's table of contents with links to all of the individual notebo
 * The Discriminator Network
 * The Generator Network
 * The Adversarial Network
-* GAN Training ([generative_adversarial_network.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/generative_adversarial_network.ipynb))
+* GAN Training ([generative_adversarial_network.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/generative_adversarial_network.ipynb))
 
 #### Chapter 13: Deep Reinforcement Learning
 
@@ -230,7 +230,7 @@ Below is the book's table of contents with links to all of the individual notebo
 	* Value Functions
 	* Q-Value Functions
 	* Estimating an Optimal Q-Value
-* Defining a DQN Agent ([cartpole_dqn.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/cartpole_dqn.ipynb))
+* Defining a DQN Agent ([cartpole_dqn.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/cartpole_dqn.ipynb))
 	* Initialization Parameters
 	* Building the Agent’s Neural Network Model
 	* Remembering Gameplay
@@ -248,7 +248,7 @@ Below is the book's table of contents with links to all of the individual notebo
 #### Chapter 14: Moving Forward with Your Own Deep Learning Projects
 
 * Ideas for Deep Learning Projects
-	* Machine Vision and GANs ([fashion_mnist_pixel_by_pixel.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/fashion_mnist_pixel_by_pixel.ipynb))
+	* Machine Vision and GANs ([fashion_mnist_pixel_by_pixel.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/fashion_mnist_pixel_by_pixel.ipynb))
 	* Natural Language Processing
 	* Deep Reinforcement Learning
 	* Converting an Existing Machine-Learning Project
@@ -257,13 +257,13 @@ Below is the book's table of contents with links to all of the individual notebo
 * The Modeling Process, including Hyperparameter Tuning 
 	* Automation of Hyperparameter Search
 * Deep Learning Libraries
-	* Keras and TensorFlow ([deep_net_in_tensorflow.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/deep_net_in_tensorflow.ipynb))
-	* PyTorch ([pytorch.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/pytorch.ipynb))
+	* Keras and TensorFlow ([deep_net_in_tensorflow.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/deep_net_in_tensorflow.ipynb))
+	* PyTorch ([pytorch.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/pytorch.ipynb))
 	* MXNet, CNTK, Caffe, and Beyond
 * Software 2.0
 * Approaching Artificial General Intelligence
 
 ## Book Cover
 
-![](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/img/cover.jpeg)
+![](https://github.com/rickiepark/dl-illustrated/blob/master/img/cover.jpeg)
 
