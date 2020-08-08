@@ -88,8 +88,8 @@ Below is the book's table of contents with links to all of the individual notebo
 
 * 필요한 지식
 * 설치
-* A Shallow Neural Network in Keras ([5-1.shallow_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/5-1.shallow_net_in_keras.ipynb))
-	* The MNIST Handwritten Digits ([5-2.mnist_digit_pixel_by_pixel.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/5-2.mnist_digit_pixel_by_pixel.ipynb))
+* 케라스로 만드는 얕은 신경망 ([5-1.shallow_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/5-1.shallow_net_in_keras.ipynb))
+	* MNIST 손글씨 숫자 ([5-2.mnist_digit_pixel_by_pixel.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/5-2.mnist_digit_pixel_by_pixel.ipynb))
 	* A Schematic Diagram of the Network
 	* Loading the Data
 	* Reformatting the Data
