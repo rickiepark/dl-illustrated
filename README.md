@@ -88,8 +88,8 @@ Below is the book's table of contents with links to all of the individual notebo
 
 * 필요한 지식
 * 설치
-* A Shallow Neural Network in Keras ([shallow_net_in_keras.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/shallow_net_in_keras.ipynb))
-	* The MNIST Handwritten Digits ([mnist_digit_pixel_by_pixel.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/mnist_digit_pixel_by_pixel.ipynb))
+* A Shallow Neural Network in Keras ([5-1.shallow_net_in_keras.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/shallow_net_in_keras.ipynb))
+	* The MNIST Handwritten Digits ([5-2.mnist_digit_pixel_by_pixel.ipynb](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/notebooks/mnist_digit_pixel_by_pixel.ipynb))
 	* A Schematic Diagram of the Network
 	* Loading the Data
 	* Reformatting the Data
