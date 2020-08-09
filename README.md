@@ -90,13 +90,13 @@ Below is the book's table of contents with links to all of the individual notebo
 * 설치
 * 케라스로 만드는 얕은 신경망 ([5-1.shallow_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/5-1.shallow_net_in_keras.ipynb))
 	* MNIST 손글씨 숫자 ([5-2.mnist_digit_pixel_by_pixel.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/5-2.mnist_digit_pixel_by_pixel.ipynb))
-	* A Schematic Diagram of the Network
-	* Loading the Data
-	* Reformatting the Data
-	* Designing a Neural Network Architecture
-	* Training a Deep Learning Model
+	* 신경망 구조
+	* 데이터 적재
+	* 데이터 전처리
+	* 신경망 구조 설계
+	* 신경망 모델 훈련
 
-#### Chapter 6: Artificial Neurons Detecting Hot Dogs
+#### 6장: 핫도그를 감지하는 인공 뉴런
 
 * Biological Neuroanatomy 101
 * The Perceptron 
