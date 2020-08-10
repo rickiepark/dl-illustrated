@@ -102,7 +102,7 @@ Below is the book's table of contents with links to all of the individual notebo
 * 퍼셉트론
 	* 핫도그 감지기
 	* 이 책에서 가장 중요한 공식
-* 활성화 함수
+* 현대의 뉴런과 활성화 함수
 	* 시그모이드 활성화 함수 ([6-1.sigmoid_function.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/6-1.sigmoid_function.ipynb))
 	* Tanh 활성화 함수 
 	* ReLU 활성화 함수
