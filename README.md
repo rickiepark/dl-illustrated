@@ -110,13 +110,13 @@ Below is the book's table of contents with links to all of the individual notebo
 
 #### 7장: 인공 신경망
 
-* The Input Layer
-* Dense Layers
-* A Hot Dog-Detecting Dense Network 
-	* Forward Propagation through the First Hidden Layer
-	* Forward Propagation through Subsequent Layers
-* The Softmax Layer of a Fast Food-Classifying Network ([7-1.softmax_demo.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/7-1.softmax_demo.ipynb))
-* Revisiting our Shallow Neural Network
+* 입력층
+* 밀집 층
+* 핫도그 감지 밀집 신경망
+	* 첫 번째 은닉층의 정방향 계산
+	* 나머지 층의 정방향 계산
+* 패스트 푸드 분류 신경망의 소프트맥스 활성화 함수 ([7-1.softmax_demo.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/7-1.softmax_demo.ipynb))
+* 얕은 신경망 다시 보기
 
 #### Chapter 8: Training Deep Networks
 
