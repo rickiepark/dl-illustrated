@@ -121,17 +121,17 @@ Below is the book's table of contents with links to all of the individual notebo
 #### Chapter 8: Training Deep Networks
 
 * Cost Functions 
-	* Quadratic Cost ([quadratic_cost.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/quadratic_cost.ipynb))
+	* Quadratic Cost ([8-1.quadratic_cost.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-1.quadratic_cost.ipynb))
 	* Saturated Neurons
-	* Cross-Entropy Cost ([cross_entropy_cost.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/cross_entropy_cost.ipynb))
+	* Cross-Entropy Cost ([8-2.cross_entropy_cost.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-2.cross_entropy_cost.ipynb))
 * Optimization: Learning to Minimize Cost 
 	* Gradient Descent
-	* Learning Rate ([measuring_speed_of_learning.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/measuring_speed_of_learning.ipynb))
+	* Learning Rate ([8-3.measuring_speed_of_learning.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-3.measuring_speed_of_learning.ipynb))
 	* Batch Size and Stochastic Gradient Descent
 	* Escaping the Local Minimum
 * Backpropagation
 * Tuning Hidden-Layer Count and Neuron Count
-* An Intermediate Net in Keras ([intermediate_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/intermediate_net_in_keras.ipynb))
+* An Intermediate Net in Keras ([8-4.intermediate_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-4.intermediate_net_in_keras.ipynb))
 
 #### Chapter 9: Improving Deep Networks
 
