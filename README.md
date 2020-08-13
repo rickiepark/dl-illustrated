@@ -108,14 +108,14 @@ Below is the book's table of contents with links to all of the individual notebo
 	* ReLU 활성화 함수
 * 활성화 함수 선택
 
-#### Chapter 7: Artificial Neural Networks
+#### 7장: 인공 신경망
 
 * The Input Layer
 * Dense Layers
 * A Hot Dog-Detecting Dense Network 
 	* Forward Propagation through the First Hidden Layer
 	* Forward Propagation through Subsequent Layers
-* The Softmax Layer of a Fast Food-Classifying Network ([softmax_demo.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/softmax_demo.ipynb))
+* The Softmax Layer of a Fast Food-Classifying Network ([7-1.softmax_demo.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/7-1.softmax_demo.ipynb))
 * Revisiting our Shallow Neural Network
 
 #### Chapter 8: Training Deep Networks
