@@ -135,7 +135,7 @@ Below is the book's table of contents with links to all of the individual notebo
 
 #### Chapter 9: Improving Deep Networks
 
-* Weight Initialization ([weight_initialization.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/weight_initialization.ipynb))
+* Weight Initialization ([9-1.weight_initialization.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/9-1.weight_initialization.ipynb))
 	* Xavier Glorot Distributions
 * Unstable Gradients 
 	* Vanishing Gradients
@@ -151,9 +151,9 @@ Below is the book's table of contents with links to all of the individual notebo
 	* AdaGrad
 	* AdaDelta and RMSProp
 	* Adam
-* A Deep Neural Network in Keras ([deep_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/deep_net_in_keras.ipynb))
-* Regression ([regression_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/regression_in_keras.ipynb))
-* TensorBoard ([deep_net_in_keras_with_tensorboard.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/deep_net_in_keras_with_tensorboard.ipynb))
+* A Deep Neural Network in Keras ([9-2.deep_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/9-2.deep_net_in_keras.ipynb))
+* Regression ([9-3.regression_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/9-3.regression_in_keras.ipynb))
+* TensorBoard ([9-4.deep_net_in_keras_with_tensorboard.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/9-4.deep_net_in_keras_with_tensorboard.ipynb))
 
 ### Part III: Interactive Applications of Deep Learning
 
