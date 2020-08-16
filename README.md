@@ -118,20 +118,20 @@ Below is the book's table of contents with links to all of the individual notebo
 * 패스트 푸드 분류 신경망의 소프트맥스 활성화 함수 ([7-1.softmax_demo.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/7-1.softmax_demo.ipynb))
 * 얕은 신경망 다시 보기
 
-#### Chapter 8: Training Deep Networks
+#### 8장: 심층 신경망 훈련하기
 
-* Cost Functions 
-	* Quadratic Cost ([8-1.quadratic_cost.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-1.quadratic_cost.ipynb))
-	* Saturated Neurons
-	* Cross-Entropy Cost ([8-2.cross_entropy_cost.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-2.cross_entropy_cost.ipynb))
-* Optimization: Learning to Minimize Cost 
-	* Gradient Descent
-	* Learning Rate ([8-3.measuring_speed_of_learning.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-3.measuring_speed_of_learning.ipynb))
-	* Batch Size and Stochastic Gradient Descent
-	* Escaping the Local Minimum
-* Backpropagation
-* Tuning Hidden-Layer Count and Neuron Count
-* An Intermediate Net in Keras ([8-4.intermediate_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-4.intermediate_net_in_keras.ipynb))
+* 비용 함수
+	* 이차 비용 함수 ([8-1.quadratic_cost.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-1.quadratic_cost.ipynb))
+	* 포화된 뉴런
+	* 크로스-엔트로피 비용 함수 ([8-2.cross_entropy_cost.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-2.cross_entropy_cost.ipynb))
+* 최적화: 학습을 통해 비용을 최소화하기
+	* 경사 하강법
+	* 학습률 ([8-3.measuring_speed_of_learning.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-3.measuring_speed_of_learning.ipynb))
+	* 배치 크기와 확률적 경사 하강법
+	* 지역 최솟값 탈출하기
+* 역전파
+* 은닉층 개수와 뉴런 개수 튜닝하기
+* 케라스로 여러 개의 은닉층을 가진 신경망 만들기 ([8-4.intermediate_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-4.intermediate_net_in_keras.ipynb))
 
 #### Chapter 9: Improving Deep Networks
 
