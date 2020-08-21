@@ -133,27 +133,27 @@ Below is the book's table of contents with links to all of the individual notebo
 * 은닉층 개수와 뉴런 개수 튜닝하기
 * 케라스로 중간 깊이 신경망 만들기 ([8-4.intermediate_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-4.intermediate_net_in_keras.ipynb))
 
-#### Chapter 9: Improving Deep Networks
+#### 9장: 심층 신경망 성능 높이기
 
-* Weight Initialization ([9-1.weight_initialization.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/9-1.weight_initialization.ipynb))
-	* Xavier Glorot Distributions
-* Unstable Gradients 
-	* Vanishing Gradients
-	* Exploding Gradients
-	* Batch Normalization
-* Model Generalization — Avoiding Overfitting 
-	* L1 and L2 Regularization
-	* Dropout
-	* Data Augmentation
-* Fancy Optimizers
-	* Momentum
-	* Nesterov Momentum
+* 가중치 초기화 ([9-1.weight_initialization.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/9-1.weight_initialization.ipynb))
+	* 세이비어 글로럿 분포
+* 불안정한 그레이디언트 
+	* 그레이디언트 소실
+	* 그레이디언트 폭주
+	* 배치 정규화
+* 모델 일반화 - 과대적합 피하기
+	* L1와 L2 규제
+	* 드롭아웃
+	* 데이터 증식
+* 고급 옵티마이저
+	* 모멘텀
+	* 네스테로프 모멘텀
 	* AdaGrad
-	* AdaDelta and RMSProp
+	* AdaDelta와 RMSProp
 	* Adam
-* A Deep Neural Network in Keras ([9-2.deep_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/9-2.deep_net_in_keras.ipynb))
-* Regression ([9-3.regression_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/9-3.regression_in_keras.ipynb))
-* TensorBoard ([9-4.deep_net_in_keras_with_tensorboard.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/9-4.deep_net_in_keras_with_tensorboard.ipynb))
+* 케라스로 심층 신경망 만들기 ([9-2.deep_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/9-2.deep_net_in_keras.ipynb))
+* 회귀 ([9-3.regression_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/9-3.regression_in_keras.ipynb))
+* 텐서보드 ([9-4.deep_net_in_keras_with_tensorboard.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/9-4.deep_net_in_keras_with_tensorboard.ipynb))
 
 ### Part III: Interactive Applications of Deep Learning
 
