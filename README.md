@@ -169,15 +169,15 @@ Below is the book's table of contents with links to all of the individual notebo
 	* Stride Length
 	* Padding
 * Pooling Layers
-* LeNet-5 in Keras ([lenet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/lenet_in_keras.ipynb))
-* AlexNet ([alexnet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/alexnet_in_keras.ipynb)) and VGGNet ([vggnet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/vggnet_in_keras.ipynb))
+* LeNet-5 in Keras ([10-1.lenet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/10-1.lenet_in_keras.ipynb))
+* AlexNet ([10-2.alexnet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/10-2.alexnet_in_keras.ipynb)) and VGGNet ([10-3.vggnet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/10-3.vggnet_in_keras.ipynb))
 * Residual Networks 
 	* Vanishing Gradients: The Bête Noire of Deep CNNs
 	* Residual Connection
 * Applications of Machine Vision
 	* Object Detection
 	* Image Segmentation
-	* Transfer Learning ([transfer_learning_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/transfer_learning_in_keras.ipynb))
+	* Transfer Learning ([10-4.transfer_learning_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/10-4.transfer_learning_in_keras.ipynb))
 	* Capsule Networks
 
 #### Chapter 11: Natural Language Processing
