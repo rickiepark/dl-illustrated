@@ -88,7 +88,7 @@ Below is the book's table of contents with links to all of the individual notebo
 
 * 필요한 지식
 * 설치
-* 케라스로 만드는 얕은 신경망 ([5-1.shallow_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/5-1.shallow_net_in_keras.ipynb))
+* 케라스로 얕은 신경망 만들기 ([5-1.shallow_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/5-1.shallow_net_in_keras.ipynb))
 	* MNIST 손글씨 숫자 ([5-2.mnist_digit_pixel_by_pixel.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/5-2.mnist_digit_pixel_by_pixel.ipynb))
 	* 신경망 구조
 	* 데이터 적재
@@ -131,7 +131,7 @@ Below is the book's table of contents with links to all of the individual notebo
 	* 지역 최솟값 탈출하기
 * 역전파
 * 은닉층 개수와 뉴런 개수 튜닝하기
-* 케라스로 여러 개의 은닉층을 가진 신경망 만들기 ([8-4.intermediate_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-4.intermediate_net_in_keras.ipynb))
+* 케라스로 중간 깊이 신경망 만들기 ([8-4.intermediate_net_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/8-4.intermediate_net_in_keras.ipynb))
 
 #### Chapter 9: Improving Deep Networks
 
