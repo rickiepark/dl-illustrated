@@ -155,30 +155,31 @@ Below is the book's table of contents with links to all of the individual notebo
 * 회귀 ([9-3.regression_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/9-3.regression_in_keras.ipynb))
 * 텐서보드 ([9-4.deep_net_in_keras_with_tensorboard.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/9-4.deep_net_in_keras_with_tensorboard.ipynb))
 
-### Part III: Interactive Applications of Deep Learning
+### 3부: 딥러닝 애플리케이션
 
-#### Chapter 10: Machine Vision
+#### 10장: 머신 비전
 
-* Convolutional Neural Networks 
-	* The Two-Dimensional Structure of Visual Imagery
-	* Computational Complexity
-	* Convolutional Layers
-	* Multiple Filters
-	* A Convolutional Example
-	* Convolutional Filter Hyperparameters
-	* Stride Length
-	* Padding
-* Pooling Layers
-* LeNet-5 in Keras ([10-1.lenet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/10-1.lenet_in_keras.ipynb))
-* AlexNet ([10-2.alexnet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/10-2.alexnet_in_keras.ipynb)) and VGGNet ([10-3.vggnet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/10-3.vggnet_in_keras.ipynb))
-* Residual Networks 
-	* Vanishing Gradients: The Bête Noire of Deep CNNs
-	* Residual Connection
-* Applications of Machine Vision
-	* Object Detection
-	* Image Segmentation
-	* Transfer Learning ([10-4.transfer_learning_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/10-4.transfer_learning_in_keras.ipynb))
-	* Capsule Networks
+* 합성곱 신경망
+	* 시각적 이미지의 2차원 구조
+	* 계산 복잡도
+	* 합성곱 층
+	* 다중 필터
+	* 합성곱 예제
+	* 합성곱 필터 하이퍼파라미터
+	* 스트라이드 크기
+	* 패딩
+* 풀링 층
+* 케라스로 만드는 LeNet-5 ([10-1.lenet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/10-1.lenet_in_keras.ipynb))
+* 케라스로 만드는 AlexNet ([10-2.alexnet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/10-2.alexnet_in_keras.ipynb))과 VGGNet ([10-3.vggnet_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/10-3.vggnet_in_keras.ipynb))
+* 잔차 네트워크
+	* 그레이디언트 소멸: 심층 CNN 최대의 적
+	* 잔차 연결
+    * ResNet
+* 머신 비전 애플리케이션
+	* 객체 탐지
+	* 이미지 분할
+	* 전이 학습 ([10-4.transfer_learning_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/10-4.transfer_learning_in_keras.ipynb))
+	* 캡슐 네트워크
 
 #### Chapter 11: Natural Language Processing
 
