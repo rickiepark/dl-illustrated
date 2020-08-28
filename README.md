@@ -181,9 +181,9 @@ Below is the book's table of contents with links to all of the individual notebo
 	* 전이 학습 ([10-4.transfer_learning_in_keras.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/10-4.transfer_learning_in_keras.ipynb))
 	* 캡슐 네트워크
 
-#### Chapter 11: Natural Language Processing
+#### 11장: 자연어 처리
 
-* Preprocessing Natural Language Data ([natural_language_preprocessing.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/natural_language_preprocessing.ipynb))
+* Preprocessing Natural Language Data ([11-1.natural_language_preprocessing.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-1.natural_language_preprocessing.ipynb))
 	* Tokenization
 	* Converting all Characters to Lower Case
 	* Removing Stop Words and Punctuation
@@ -201,16 +201,16 @@ Below is the book's table of contents with links to all of the individual notebo
 	* Loading the IMDB Film Reviews
 	* Examining the IMDB Data
 	* Standardizing the Length of the Reviews
-	* Dense Network ([dense_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/dense_sentiment_classifier.ipynb))
-	* Convolutional Networks ([convolutional_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/convolutional_sentiment_classifier.ipynb))
+	* Dense Network ([11-2.dense_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-2.dense_sentiment_classifier.ipynb))
+	* Convolutional Networks ([11-3.convolutional_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-3.convolutional_sentiment_classifier.ipynb))
 * Networks Designed for Sequential Data 
-	* Recurrent Neural Networks ([rnn_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/rnn_sentiment_classifier.ipynb))
-	* Long Short-Term Memory Units ([lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/lstm_sentiment_classifier.ipynb))
-	* Bidirectional LSTMs ([bi_lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/bi_lstm_sentiment_classifier.ipynb))
-	* Stacked Recurrent Models ([stacked_bi_lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/stacked_bi_lstm_sentiment_classifier.ipynb))
+	* Recurrent Neural Networks ([11-4.rnn_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-4.rnn_sentiment_classifier.ipynb))
+	* Long Short-Term Memory Units ([11-5.lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-5.lstm_sentiment_classifier.ipynb))
+	* Bidirectional LSTMs ([11-6.bi_lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-6.bi_lstm_sentiment_classifier.ipynb))
+	* Stacked Recurrent Models ([11-7.stacked_bi_lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-7.stacked_bi_lstm_sentiment_classifier.ipynb), [11-8.gru_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-8.gru_sentiment_classifier.ipynb))
 	* Seq2seq and Attention
 	* Transfer Learning in NLP
-* Non-Sequential Architectures: The Keras Functional API ([multi_convnet_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/multi_convnet_sentiment_classifier.ipynb))
+* Non-Sequential Architectures: The Keras Functional API ([11-9.conv_lstm_stack_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-9.conv_lstm_stack_sentiment_classifier.ipynb), [11-10.multi_convnet_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-10.multi_convnet_sentiment_classifier.ipynb))
 
 #### Chapter 12: Generative Adversarial Networks
 
