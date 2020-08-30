@@ -221,7 +221,7 @@ Below is the book's table of contents with links to all of the individual notebo
 * The Discriminator Network
 * The Generator Network
 * The Adversarial Network
-* GAN Training ([generative_adversarial_network.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/generative_adversarial_network.ipynb))
+* GAN Training ([12-1.generative_adversarial_network.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/12-1.generative_adversarial_network.ipynb))
 
 #### Chapter 13: Deep Reinforcement Learning
 
