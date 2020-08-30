@@ -183,34 +183,36 @@ Below is the book's table of contents with links to all of the individual notebo
 
 #### 11장: 자연어 처리
 
-* Preprocessing Natural Language Data ([11-1.natural_language_preprocessing.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-1.natural_language_preprocessing.ipynb))
-	* Tokenization
-	* Converting all Characters to Lower Case
-	* Removing Stop Words and Punctuation
-	* Stemming; Handling *n*-grams
-	* Preprocessing the Full Corpus
-* Creating Word Embeddings with word2vec
-	* The Essential Theory Behind word2vec
-	* Evaluating Word Vectors
-	* Running word2vec
-	* Plotting Word Vectors
-* The Area Under the ROC Curve
-	* The Confusion Matrix
-	* Calculating the ROC AUC Metric
-* Natural Language Classification with Familiar Networks
-	* Loading the IMDB Film Reviews
-	* Examining the IMDB Data
-	* Standardizing the Length of the Reviews
-	* Dense Network ([11-2.dense_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-2.dense_sentiment_classifier.ipynb))
-	* Convolutional Networks ([11-3.convolutional_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-3.convolutional_sentiment_classifier.ipynb))
-* Networks Designed for Sequential Data 
-	* Recurrent Neural Networks ([11-4.rnn_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-4.rnn_sentiment_classifier.ipynb))
-	* Long Short-Term Memory Units ([11-5.lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-5.lstm_sentiment_classifier.ipynb))
-	* Bidirectional LSTMs ([11-6.bi_lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-6.bi_lstm_sentiment_classifier.ipynb))
-	* Stacked Recurrent Models ([11-7.stacked_bi_lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-7.stacked_bi_lstm_sentiment_classifier.ipynb), [11-8.gru_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-8.gru_sentiment_classifier.ipynb))
-	* Seq2seq and Attention
-	* Transfer Learning in NLP
-* Non-Sequential Architectures: The Keras Functional API ([11-9.conv_lstm_stack_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-9.conv_lstm_stack_sentiment_classifier.ipynb), [11-10.multi_convnet_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-10.multi_convnet_sentiment_classifier.ipynb))
+* 자연어 데이터 전처리 ([11-1.natural_language_preprocessing.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-1.natural_language_preprocessing.ipynb))
+	* 토큰화
+	* 모든 문자를 소문자로 바꾸기
+	* 불용어와 구둣점 삭제
+	* 어간 추출: *n*-그램 다루기
+	* 전체 말뭉치 전처리하기
+* word2vec으로 단어 임베딩 만들기
+	* word2vec의 핵심 이론
+	* 단어 벡터 평가
+	* word2vec 실행하기
+	* 단어 벡터 출력하기
+* ROC 곡선의 면적
+	* 오차 행렬
+	* ROC AUC 계산하기
+* 신경망으로 영화 리뷰 분류하기
+	* IMDB 영화 리뷰 데이터
+	* IMDB 데이터 살펴 보기
+	* 리뷰 길이 맞추기
+	* 밀집 신경망 ([11-2.dense_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-2.dense_sentiment_classifier.ipynb))
+	* 합성곱 신경망 ([11-3.convolutional_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-3.convolutional_sentiment_classifier.ipynb))
+* 순차 데이터를 위한 신경망
+    * 순환 신경망
+	* 케라스로 RNN 구현하기 ([11-4.rnn_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-4.rnn_sentiment_classifier.ipynb))
+    * LSTM
+	* 케라스로 LSTM 구현하기 ([11-5.lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-5.lstm_sentiment_classifier.ipynb))
+	* 양방향 LSTM ([11-6.bi_lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-6.bi_lstm_sentiment_classifier.ipynb))
+	* 적층 순환 신경망 ([11-7.stacked_bi_lstm_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-7.stacked_bi_lstm_sentiment_classifier.ipynb), [11-8.gru_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-8.gru_sentiment_classifier.ipynb))
+	* Seq2seq와 어텐션
+	* NLP의 전이 학습
+* 케라스 함수형 API ([11-9.conv_lstm_stack_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-9.conv_lstm_stack_sentiment_classifier.ipynb), [11-10.multi_convnet_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-10.multi_convnet_sentiment_classifier.ipynb))
 
 #### Chapter 12: Generative Adversarial Networks
 
