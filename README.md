@@ -214,14 +214,14 @@ Below is the book's table of contents with links to all of the individual notebo
 	* NLP의 전이 학습
 * 케라스 함수형 API ([11-9.conv_lstm_stack_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-9.conv_lstm_stack_sentiment_classifier.ipynb), [11-10.multi_convnet_sentiment_classifier.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/11-10.multi_convnet_sentiment_classifier.ipynb))
 
-#### Chapter 12: Generative Adversarial Networks
+#### 12장: 생성적 적대 신경망
 
-* Essential GAN Theory
-* The _Quick, Draw!_ Dataset
-* The Discriminator Network
-* The Generator Network
-* The Adversarial Network
-* GAN Training ([12-1.generative_adversarial_network.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/12-1.generative_adversarial_network.ipynb))
+* 핵심 GAN 이론
+* _Quick, Draw!_ 데이터셋
+* 판별자 신경망
+* 생성자 신경망
+* 적대 신경망
+* GAN 훈련 ([12-1.generative_adversarial_network.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/12-1.generative_adversarial_network.ipynb))
 
 #### Chapter 13: Deep Reinforcement Learning
 
@@ -233,7 +233,7 @@ Below is the book's table of contents with links to all of the individual notebo
 	* Value Functions
 	* Q-Value Functions
 	* Estimating an Optimal Q-Value
-* Defining a DQN Agent ([cartpole_dqn.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/cartpole_dqn.ipynb))
+* Defining a DQN Agent ([13-1.cartpole_dqn.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/13-1.cartpole_dqn.ipynb))
 	* Initialization Parameters
 	* Building the Agent’s Neural Network Model
 	* Remembering Gameplay
