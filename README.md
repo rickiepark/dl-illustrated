@@ -223,35 +223,35 @@ Below is the book's table of contents with links to all of the individual notebo
 * 적대 신경망
 * GAN 훈련 ([12-1.generative_adversarial_network.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/12-1.generative_adversarial_network.ipynb))
 
-#### Chapter 13: Deep Reinforcement Learning
+#### 13장: 심층 강화 학습
 
-* Essential Theory of Reinforcement Learning 
-	* The Cart-Pole Game
-	* Markov Decision Processes
-	* The Optimal Policy
-* Essential Theory of Deep Q-Learning Networks
-	* Value Functions
-	* Q-Value Functions
-	* Estimating an Optimal Q-Value
-* Defining a DQN Agent ([13-1.cartpole_dqn.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/13-1.cartpole_dqn.ipynb))
-	* Initialization Parameters
-	* Building the Agent’s Neural Network Model
-	* Remembering Gameplay
-	* Training via Memory Replay
-	* Selecting an Action to Take
-	* Saving and Loading Model Parameters
-* Interacting with an OpenAI Gym Environment
-* Hyperparameter Optimization with SLM Lab
-* Agents Beyond DQN 
-	* Policy Gradients and the REINFORCE Algorithm
-	* The Actor-Critic Algorithm
+* 강화 학습의 핵심 이론
+	* 카트-폴 게임
+	* 마르코프 결정 과정
+	* 최적 정책
+* 심층 Q-러닝 신경망의 핵심 이론
+	* 가치 함수
+	* Q-가치 함수
+	* 최적의 Q-가치 추정하기
+* DQN 에이전트 만들기 ([13-1.cartpole_dqn.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/13-1.cartpole_dqn.ipynb))
+	* 파라미터 초기화
+	* 에이전트 신경망 모델 만들기
+	* 게임 플레이 기억하기
+	* 경험 재생을 통해 훈련하기
+	* 행동 선택하기
+	* 모델 파라미터 저장하고 로드하기
+* OpenAI 짐 환경과 연동하기
+* SLM Lab을 사용한 하이퍼파라미터 최적화
+* DQN 이외의 에이전트
+	* 정책 그레이디언트와 REINFORCE 알고리즘
+	* 액터-크리틱 알고리즘
 
-### Part IV: You and AI
+### 4부: 나 그리고 AI
 
 #### Chapter 14: Moving Forward with Your Own Deep Learning Projects
 
 * Ideas for Deep Learning Projects
-	* Machine Vision and GANs ([fashion_mnist_pixel_by_pixel.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/fashion_mnist_pixel_by_pixel.ipynb))
+	* Machine Vision and GANs ([14-1.fashion_mnist_pixel_by_pixel.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/14-1.fashion_mnist_pixel_by_pixel.ipynb))
 	* Natural Language Processing
 	* Deep Reinforcement Learning
 	* Converting an Existing Machine-Learning Project
@@ -260,8 +260,8 @@ Below is the book's table of contents with links to all of the individual notebo
 * The Modeling Process, including Hyperparameter Tuning 
 	* Automation of Hyperparameter Search
 * Deep Learning Libraries
-	* Keras and TensorFlow ([deep_net_in_tensorflow.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/deep_net_in_tensorflow.ipynb))
-	* PyTorch ([pytorch.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/pytorch.ipynb))
+	* Keras and TensorFlow ([14-2.deep_net_in_tensorflow.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/14-2.deep_net_in_tensorflow.ipynb))
+	* PyTorch ([14-3.pytorch.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/14-3.pytorch.ipynb))
 	* MXNet, CNTK, Caffe, and Beyond
 * Software 2.0
 * Approaching Artificial General Intelligence
