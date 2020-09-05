@@ -248,23 +248,23 @@ Below is the book's table of contents with links to all of the individual notebo
 
 ### 4부: 나 그리고 AI
 
-#### Chapter 14: Moving Forward with Your Own Deep Learning Projects
+#### 14장: 딥러닝 프로젝트 시작하기
 
-* Ideas for Deep Learning Projects
-	* Machine Vision and GANs ([14-1.fashion_mnist_pixel_by_pixel.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/14-1.fashion_mnist_pixel_by_pixel.ipynb))
-	* Natural Language Processing
-	* Deep Reinforcement Learning
-	* Converting an Existing Machine-Learning Project
-* Resources for Further Projects 
-	* Socially-Beneficial Projects
-* The Modeling Process, including Hyperparameter Tuning 
-	* Automation of Hyperparameter Search
-* Deep Learning Libraries
-	* Keras and TensorFlow ([14-2.deep_net_in_tensorflow.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/14-2.deep_net_in_tensorflow.ipynb))
-	* PyTorch ([14-3.pytorch.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/14-3.pytorch.ipynb))
-	* MXNet, CNTK, Caffe, and Beyond
-* Software 2.0
-* Approaching Artificial General Intelligence
+* 딥러닝 프로젝트 아이디어
+	* 머신 비전과 GAN ([14-1.fashion_mnist_pixel_by_pixel.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/14-1.fashion_mnist_pixel_by_pixel.ipynb))
+	* 자연어 처리
+	* 심층 강화 학습
+	* 기존 머신러닝 프로젝트 변환하기
+* 프로젝트를 위한 추가 자료
+	* 사회적으로 유익한 프로젝트
+* 하이퍼파라미터 튜닝을 포함한 모델링 프로세스
+	* 하이퍼파라미터 탐색 자동화
+* 딥러닝 라이브러리
+	* 케라스와 텐서플로
+	* 파이토치 ([14-2.pytorch.ipynb](https://github.com/rickiepark/dl-illustrated/blob/master/notebooks/14-2.pytorch.ipynb))
+	* MXNet, CNTK, 카페 등등
+* 소프트웨어 2.0
+* 인공 일반 지능
 
 ## Book Cover
 
