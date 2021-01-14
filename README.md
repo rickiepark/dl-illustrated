@@ -1,18 +1,8 @@
-# Deep Learning Illustrated (2020)
+# 딥러닝 일러스트레이티드
 
-This repository is home to the code that accompanies [Jon Krohn](https://www.jonkrohn.com/), [Grant Beyleveld](http://grantbeyleveld.com/about/) and [Aglaé Bassens](https://www.aglaebassens.com/)' book [Deep Learning Illustrated](https://www.deeplearningillustrated.com/). This visual, interactive guide to artificial neural networks was published on Pearson's Addison-Wesley imprint. 
+![](https://github.com/rickiepark/dl-illustrated/blob/master/img/cover.jpeg)
 
-## Installation
-
-Step-by-step guides for running the code in this repository can be found in the [installation directory](https://github.com/the-deep-learners/deep-learning-illustrated/tree/master/installation). For installation difficulties, please consider visiting our book's [Q&A forum](https://groups.google.com/forum/#!forum/deep-learning-illustrated) instead of creating an _Issue_.
-
-## Notebooks
-
-All of the code covered in the book can be found in [the notebooks directory](https://github.com/the-deep-learners/deep-learning-illustrated/tree/master/notebooks) as [Jupyter notebooks](http://jupyter.org/). 
-
-Below is the book's table of contents with links to all of the individual notebooks. 
-
-*Note that while TensorFlow 2.0 was released after the book had gone to press, as detailed in Chapter 14 (specifically, Example 14.1), all of our notebooks can be trivially converted into TensorFlow 2.x code if desired.*
+이 깃허브는 시그마프레스에서 출간한 <딥러닝 일러스트레이티드> 책의 코드를 담고 있습니다. 이 책의 코드는 최신 텐서플로, 케라스를 사용하며 구글 코랩(Colab)을 사용해 무료로 실행할 수 있습니다. 각 주피터 노트북에 코랩에서 실행할 수 있는 링크가 포함되어 있습니다.
 
 ### 1부: 딥러닝 소개
 
@@ -265,8 +255,3 @@ Below is the book's table of contents with links to all of the individual notebo
 	* MXNet, CNTK, 카페 등등
 * 소프트웨어 2.0
 * 인공 일반 지능
-
-## Book Cover
-
-![](https://github.com/rickiepark/dl-illustrated/blob/master/img/cover.jpeg)
-
